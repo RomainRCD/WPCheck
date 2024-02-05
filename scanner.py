@@ -3,7 +3,7 @@ import json
 from bs4 import BeautifulSoup
 
 # URL de base du site à scanner
-base_url = "https://www.eap-locations.fr"
+base_url = "https://www.eap-location.fr"
 
 
 # Fonction pour récupérer toutes les URLs du site et les enregistrer dans un fichier JSON
